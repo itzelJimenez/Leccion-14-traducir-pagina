@@ -9,7 +9,7 @@ FUNCIÓN TRANSLATE:
 EN HTML
 - Agregué al botón un evento onclick que correspondiera a la función mostrarResultado();
 - Generé una nueva sección div, en la que declaré 5 Tags con sus Id's respectivos. 
-- La primer etiqueta corresponde a un h 2 dos con la etiqueta h 4 que corresponderán a mostrar los textos "Tu correo electrónico es:" y "Tu contraseña es:", las otras dos secciones corresponden a la impresión de los datos agregados por el usuario y tienen la etiqueta h 5.
+- La primer etiqueta corresponde a un h2, dos con la etiqueta h4 que corresponderán a mostrar los textos "Tu correo electrónico es:" y "Tu contraseña es:", las otras dos secciones corresponden a la impresión de los datos agregados por el usuario y tienen la etiqueta h5.
 ---
 FUNCIÓN MOSTRAR RESULTADO:
 - Dentro de la función mostrarResultado(); realicé lo siguiente.
